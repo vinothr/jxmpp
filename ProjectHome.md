@@ -1,0 +1,1 @@
+JQuery plugin for XMPP protocol using JAXL PHP Client Library as backend.
